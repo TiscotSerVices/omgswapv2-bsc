@@ -1,4 +1,5 @@
-# OMGSwap bApp for BSC [Binance Smart Chain](https://github.com/binance-chain/)
+# OMGSwap bApp for BSC </br>
+## [Binance Smart Chain](https://github.com/binance-chain/)
 
 [OMGSwap Ethereum](https://app.omgswap.com)
 [OMGSwap BSC](https://bapp.omgswap.com)
