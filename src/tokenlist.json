@@ -18,14 +18,25 @@
       "chainId": 1,
       "name": "Wrapped Binance",
       "symbol": "WBNB",
+      "tags":["Binance-Peg","Cross-Chain"],
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/smartchain/assets/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c/logo.png"
+    },
+    {
+      "address": "0x2170ed0880ac9a755fd29b2688956bd959f933f8",
+      "chainId": 1,
+      "name": "Ethereum Token",
+      "symbol": "ETH",
+      "tags":["Binance-Peg","Cross-Chain"],
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/smartchain/assets/0x2170ed0880ac9a755fd29b2688956bd959f933f8/logo.png"
     },
     {
       "address": "0x55d398326f99059ff775485246999027b3197955",
       "chainId": 1,
       "name": "TetherUSD",
       "symbol": "USDT",
+      "tags":["Binance-Peg","Cross-Chain"],
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/smartchain/assets/0x55d398326f99059fF775485246999027B3197955/logo.png"
     },
@@ -34,6 +45,7 @@
       "chainId": 1,
       "name": "BUSD Token",
       "symbol": "BUSD",
+      "tags":["Binance-Peg","Cross-Chain"],
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/smartchain/assets/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56/logo.png"
     },
@@ -42,22 +54,16 @@
       "chainId": 1,
       "name": "Omega Protocol Money",
       "symbol": "OPM",
+      "tags":["DeFi","dApp","DEX","Cross-Chain"],
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/omgswap/public-assets/master/extra/token_logos/256/OPM.png"
-    },
-    {
-      "address": "0x2170ed0880ac9a755fd29b2688956bd959f933f8",
-      "chainId": 1,
-      "name": "Ethereum Token",
-      "symbol": "ETH",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/smartchain/assets/0x2170ed0880ac9a755fd29b2688956bd959f933f8/logo.png"
     },
     {
       "address": "0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c",
       "chainId": 1,
       "name": "BTCB Token",
       "symbol": "BTCB",
+      "tags":["Binance-Peg","Cross-Chain"],
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/smartchain/assets/0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c/logo.png"
     },
@@ -66,6 +72,7 @@
       "chainId": 1,
       "name": "Dai Token",
       "symbol": "DAI",
+      "tags":["Binance-Peg","Cross-Chain"],
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/smartchain/assets/0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3/logo.png"
     },
@@ -74,6 +81,7 @@
       "chainId": 1,
       "name": "XRP Token",
       "symbol": "XRP",
+      "tags":["Binance-Peg","Cross-Chain"],
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/smartchain/assets/0x1D2F0da169ceB9fC7B3144628dB156f3F6c60dBE/logo.png"
     },
@@ -82,6 +90,7 @@
       "chainId": 1,
       "name": "Polkadot Token",
       "symbol": "DOT",
+      "tags":["Binance-Peg","Cross-Chain"],
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/smartchain/assets/0x7083609fCE4d1d8Dc0C979AAb8c869Ea2C873402/logo.png"
     },
@@ -90,6 +99,7 @@
       "chainId": 1,
       "name": "Bitcoin Cash Token",
       "symbol": "BCH",
+      "tags":["Binance-Peg","Cross-Chain"],
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/smartchain/assets/0x8ff795a6f4d97e7887c79bea79aba5cc76444adf/logo.png"
     },
@@ -98,6 +108,7 @@
       "chainId": 1,
       "name": "ChainLink Token",
       "symbol": "LINK",
+      "tags":["Binance-Peg","Cross-Chain"],
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/smartchain/assets/0xf8a0bf9cf54bb92f17374d9e9a321e6a111a51bd/logo.png"
     },
@@ -106,6 +117,7 @@
       "chainId": 1,
       "name": "Litecoin Token",
       "symbol": "LTC",
+      "tags":["Binance-Peg","Cross-Chain"],
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/smartchain/assets/0x4338665cbb7b2485a8855a139b75d5e34ab0db94/logo.png"
     },
@@ -114,6 +126,7 @@
       "chainId": 1,
       "name": "Cardano Token",
       "symbol": "ADA",
+      "tags":["Binance-Peg","Cross-Chain"],
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/smartchain/assets/0x3ee2200efb3400fabb9aacf31297cbdd1d435d47/logo.png"
     },
@@ -122,6 +135,7 @@
       "chainId": 1,
       "name": "EOS Token",
       "symbol": "EOS",
+      "tags":["Binance-Peg","Cross-Chain"],
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/smartchain/assets/0x56b6fb708fc5732dec1afc8d8556423a2edccbd6/logo.png"
     },
@@ -130,6 +144,7 @@
       "chainId": 1,
       "name": "Cosmos Token",
       "symbol": "ATOM",
+      "tags":["Cross-Chain"],
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/smartchain/assets/0x0eb3a705fc54725037cc9e008bdede697f62f335/logo.png"
     },
@@ -138,6 +153,7 @@
       "chainId": 1,
       "name": "Tezos Token",
       "symbol": "XTZ",
+      "tags":["Binance-Peg","Cross-Chain"],
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/smartchain/assets/0x16939ef78684453bfdfb47825f8a5f714f12623a/logo.png"
     },
@@ -146,6 +162,7 @@
       "chainId": 1,
       "name": "Zcash Token",
       "symbol": "ZEC",
+      "tags":["Cross-Chain"],
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/smartchain/assets/0x1ba42e5193dfa8b03d15dd1b86a3113bbbef8eeb/logo.png"
     },
@@ -154,6 +171,7 @@
       "chainId": 1,
       "name": "Ontology Token",
       "symbol": "ONT",
+      "tags":["Binance-Peg","Cross-Chain"],
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/smartchain/assets/0xfd7b3a77848f1c2d67e05e54d78d174a0c850335/logo.png"
     },
@@ -162,6 +180,7 @@
       "chainId": 1,
       "name": "Band Protocol Token",
       "symbol": "BAND",
+      "tags":["Binance-Peg","Cross-Chain"],
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/smartchain/assets/0xad6caeb32cd2c308980a548bd0bc5aa4306c6c18/logo.png"
     },
@@ -170,6 +189,7 @@
       "chainId": 1,
       "name": "Ankr",
       "symbol": "ANKR",
+      "tags":["Cross-Chain"],
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/smartchain/assets/0xf307910a4c7bbc79691fd374889b36d8531b08e3/logo.png"
     },
@@ -178,6 +198,7 @@
       "chainId": 1,
       "name": "Prometeus",
       "symbol": "PROM",
+      "tags":["Data"],
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/smartchain/assets/0xaf53d56ff99f1322515e54fdde93ff8b3b7dafd5/logo.png"
     },
@@ -186,6 +207,7 @@
       "chainId": 1,
       "name": "YFII.finance Token",
       "symbol": "YFII",
+      "tags":["Cross-Chain"],
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/smartchain/assets/0x7f70642d88cf1c4a3a7abb072b53b929b653eda5/logo.png"
     },
@@ -202,6 +224,7 @@
       "chainId": 1,
       "name": "BakeryToken",
       "symbol": "BAKE",
+      "tags":["Yield Farming"],
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/smartchain/assets/0xE02dF9e3e622DeBdD69fb838bB799E3F168902c5/logo.png"
     },
@@ -210,6 +233,7 @@
       "chainId": 1,
       "name": "Burger Swap",
       "symbol": "BURGER",
+      "tags":["Yield Farming"],
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/smartchain/assets/0xae9269f27437f0fcbc232d39ec814844a51d6b8f/logo.png"
     },
@@ -218,6 +242,7 @@
       "chainId": 1,
       "name": "SPARTAN PROTOCOL TOKEN",
       "symbol": "SPARTA",
+      "tags":["Protocol"],
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/smartchain/assets/0xe4ae305ebe1abe663f261bc00534067c80ad677c/logo.png"
     },
@@ -225,6 +250,7 @@
       "address": "0x007ea5c0ea75a8df45d288a4debdd5bb633f9e56",
       "chainId": 1,
       "name": "CanYaCoin",
+      "tags":["Cross-Chain"],
       "symbol": "CAN",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/smartchain/assets/0x007ea5c0ea75a8df45d288a4debdd5bb633f9e56/logo.png"
