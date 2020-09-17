@@ -78,7 +78,7 @@ const MenuItem = styled(ExternalLink)`
   }
 `
 
-const CODE_LINK = 'https://github.com/omgswap'
+const CODE_LINK = 'https://github.com/omgswap/omgswapv2-bsc'
 
 export default function Menu() {
   const node = useRef<HTMLDivElement>()
