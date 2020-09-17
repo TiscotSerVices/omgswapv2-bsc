@@ -46,6 +46,14 @@
       "logoURI": "https://raw.githubusercontent.com/omgswap/public-assets/master/extra/token_logos/256/OPM.png"
     },
     {
+      "address": "0x2170ed0880ac9a755fd29b2688956bd959f933f8",
+      "chainId": 1,
+      "name": "Ethereum Token",
+      "symbol": "ETH",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/smartchain/assets/0x2170ed0880ac9a755fd29b2688956bd959f933f8/logo.png"
+    },
+    {
       "address": "0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c",
       "chainId": 1,
       "name": "BTCB Token",
