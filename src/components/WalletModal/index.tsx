@@ -177,7 +177,7 @@ export default function WalletModal({
     setPendingWallet(connector) // set wallet for pending view
     setWalletView(WALLET_VIEWS.PENDING)
 
-    
+
     connector &&
       activate(connector, undefined, true).catch(error => {
         if (error instanceof UnsupportedChainIdError) {
@@ -188,7 +188,7 @@ export default function WalletModal({
       })
   }
 
- 
+
   // get wallets user can switch too, depending on device/browser
   function getOptions() {
     const isMetamask = window.ethereum && window.ethereum.isMetaMask
@@ -197,7 +197,7 @@ export default function WalletModal({
       // check for mobile options
       if (isMobile) {
         //disable portis on mobile for now
-        
+
 
         if (!window.web3 && !window.ethereum && option.mobile) {
           return (
@@ -283,7 +283,7 @@ export default function WalletModal({
           <HeaderRow>{error instanceof UnsupportedChainIdError ? 'Wrong Network' : 'Error connecting'}</HeaderRow>
           <ContentWrapper>
             {error instanceof UnsupportedChainIdError ? (
-              <h5>Please connect to the appropriate Ethereum network.</h5>
+              <h5>Please connect to the appropriate Binance network.</h5>
             ) : (
               'Error connecting. Try refreshing the page.'
             )}
@@ -336,8 +336,8 @@ export default function WalletModal({
           )}
           {walletView !== WALLET_VIEWS.PENDING && (
             <Blurb>
-              <span>New to Ethereum? &nbsp;</span>{' '}
-              <ExternalLink href="https://ethereum.org/wallets/">Learn more about wallets</ExternalLink>
+              <span>New to Binance? &nbsp;</span>{' '}
+              <ExternalLink href="https://www.binance.org/en/smartChain/">Learn more about wallets</ExternalLink>
             </Blurb>
           )}
         </ContentWrapper>
