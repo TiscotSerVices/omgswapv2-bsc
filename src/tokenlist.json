@@ -34,7 +34,7 @@
       "logoURI": "https://raw.githubusercontent.com/omgswap/public-assets/master/assets/smartchain/0x2170Ed0880ac9A755fd29B2688956BD959F933F8/logo.png"
     },
     {
-      "address": "0x55d398326f99059ff775485246999027b3197955",
+      "address": "0x55d398326f99059fF775485246999027B3197955",
       "chainId": 1,
       "name": "TetherUSD",
       "symbol": "USDT",
@@ -43,7 +43,7 @@
       "logoURI": "https://raw.githubusercontent.com/omgswap/public-assets/master/assets/smartchain/0x55d398326f99059fF775485246999027B3197955/logo.png"
     },
     {
-      "address": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+      "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
       "chainId": 1,
       "name": "BUSD Token",
       "symbol": "BUSD",
@@ -52,7 +52,7 @@
       "logoURI": "https://raw.githubusercontent.com/omgswap/public-assets/master/assets/smartchain/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56/logo.png"
     },
      {
-      "address": "0x8903cefabdf9ad5f0eb2bf29bf0ad2cd5d74ce20",
+      "address": "0x8903Cefabdf9aD5f0EB2bf29bF0Ad2cd5D74Ce20",
       "chainId": 1,
       "name": "Omega Protocol Money",
       "symbol": "OPM",
@@ -70,7 +70,7 @@
       "logoURI": "https://raw.githubusercontent.com/omgswap/public-assets/master/assets/smartchain/0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c/logo.png"
     },
     {
-      "address": "0x1af3f329e8be154074d8769d1ffa4ee058b1dbc3",
+      "address": "0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3",
       "chainId": 1,
       "name": "Dai Token",
       "symbol": "DAI",
@@ -79,7 +79,7 @@
       "logoURI": "https://raw.githubusercontent.com/omgswap/public-assets/master/assets/smartchain/0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3/logo.png"
     },
     {
-      "address": "0x1d2f0da169ceb9fc7b3144628db156f3f6c60dbe",
+      "address": "0x1D2F0da169ceB9fC7B3144628dB156f3F6c60dBE",
       "chainId": 1,
       "name": "XRP Token",
       "symbol": "XRP",
@@ -88,7 +88,7 @@
       "logoURI": "https://raw.githubusercontent.com/omgswap/public-assets/master/assets/smartchain/0x1D2F0da169ceB9fC7B3144628dB156f3F6c60dBE/logo.png"
     },
     {
-      "address": "0x7083609fce4d1d8dc0c979aab8c869ea2c873402",
+      "address": "0x7083609fCE4d1d8Dc0C979AAb8c869Ea2C873402",
       "chainId": 1,
       "name": "Polkadot Token",
       "symbol": "DOT",
