@@ -25,13 +25,13 @@
       "logoURI": "https://raw.githubusercontent.com/omgswap/public-assets/master/assets/smartchain/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c/logo.png"
     },
     {
-      "address": "0x2170ed0880ac9a755fd29b2688956bd959f933f8",
+      "address": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8",
       "chainId": 1,
       "name": "Ethereum Token",
       "symbol": "ETH",
       "tags":["Binance-Peg","Cross-Chain"],
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/omgswap/public-assets/master/assets/smartchain/0x2170ed0880ac9a755fd29b2688956bd959f933f8/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/omgswap/public-assets/master/assets/smartchain/0x2170Ed0880ac9A755fd29B2688956BD959F933F8/logo.png"
     },
     {
       "address": "0x55d398326f99059ff775485246999027b3197955",
@@ -61,13 +61,13 @@
       "logoURI": "https://raw.githubusercontent.com/omgswap/public-assets/master/assets/smartchain/0x8903Cefabdf9aD5f0EB2bf29bF0Ad2cd5D74Ce20/logo.png"
     },
     {
-      "address": "0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c",
+      "address": "0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c",
       "chainId": 1,
       "name": "BTCB Token",
       "symbol": "BTCB",
       "tags":["Binance-Peg","Cross-Chain"],
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/omgswap/public-assets/master/assets/smartchain/0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/omgswap/public-assets/master/assets/smartchain/0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c/logo.png"
     },
     {
       "address": "0x1af3f329e8be154074d8769d1ffa4ee058b1dbc3",
@@ -106,120 +106,120 @@
       "logoURI": "https://raw.githubusercontent.com/omgswap/public-assets/master/assets/smartchain/0x8ff795a6f4d97e7887c79bea79aba5cc76444adf/logo.png"
     },
     {
-      "address": "0xf8a0bf9cf54bb92f17374d9e9a321e6a111a51bd",
+      "address": "0xF8A0BF9cF54Bb92F17374d9e9A321E6a111a51bD",
       "chainId": 1,
       "name": "ChainLink Token",
       "symbol": "LINK",
       "tags":["Binance-Peg","Cross-Chain"],
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/omgswap/public-assets/master/assets/smartchain/0xf8a0bf9cf54bb92f17374d9e9a321e6a111a51bd/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/omgswap/public-assets/master/assets/smartchain/0xF8A0BF9cF54Bb92F17374d9e9A321E6a111a51bD/logo.png"
     },
     {
-      "address": "0x4338665cbb7b2485a8855a139b75d5e34ab0db94",
+      "address": "0x4338665CBB7B2485A8855A139b75D5e34AB0DB94",
       "chainId": 1,
       "name": "Litecoin Token",
       "symbol": "LTC",
       "tags":["Binance-Peg","Cross-Chain"],
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/omgswap/public-assets/master/assets/smartchain/0x4338665cbb7b2485a8855a139b75d5e34ab0db94/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/omgswap/public-assets/master/assets/smartchain/0x4338665CBB7B2485A8855A139b75D5e34AB0DB94/logo.png"
     },
     {
-      "address": "0x3ee2200efb3400fabb9aacf31297cbdd1d435d47",
+      "address": "0x3EE2200Efb3400fAbB9AacF31297cBdD1d435D47",
       "chainId": 1,
       "name": "Cardano Token",
       "symbol": "ADA",
       "tags":["Binance-Peg","Cross-Chain"],
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/omgswap/public-assets/master/assets/smartchain/0x3ee2200efb3400fabb9aacf31297cbdd1d435d47/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/omgswap/public-assets/master/assets/smartchain/0x3EE2200Efb3400fAbB9AacF31297cBdD1d435D47/logo.png"
     },
     {
-      "address": "0x56b6fb708fc5732dec1afc8d8556423a2edccbd6",
+      "address": "0x56b6fB708fC5732DEC1Afc8D8556423A2EDcCbD6",
       "chainId": 1,
       "name": "EOS Token",
       "symbol": "EOS",
       "tags":["Binance-Peg","Cross-Chain"],
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/omgswap/public-assets/master/assets/smartchain/0x56b6fb708fc5732dec1afc8d8556423a2edccbd6/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/omgswap/public-assets/master/assets/smartchain/0x56b6fB708fC5732DEC1Afc8D8556423A2EDcCbD6/logo.png"
     },
     {
-      "address": "0x0eb3a705fc54725037cc9e008bdede697f62f335",
+      "address": "0x0Eb3a705fc54725037CC9e008bDede697f62F335",
       "chainId": 1,
       "name": "Cosmos Token",
       "symbol": "ATOM",
       "tags":["Cross-Chain"],
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/omgswap/public-assets/master/assets/smartchain/0x0eb3a705fc54725037cc9e008bdede697f62f335/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/omgswap/public-assets/master/assets/smartchain/0x0Eb3a705fc54725037CC9e008bDede697f62F335/logo.png"
     },
     {
-      "address": "0x16939ef78684453bfdfb47825f8a5f714f12623a",
+      "address": "0x16939ef78684453bfDFb47825F8a5F714f12623a",
       "chainId": 1,
       "name": "Tezos Token",
       "symbol": "XTZ",
       "tags":["Binance-Peg","Cross-Chain"],
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/omgswap/public-assets/master/assets/smartchain/0x16939ef78684453bfdfb47825f8a5f714f12623a/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/omgswap/public-assets/master/assets/smartchain/0x16939ef78684453bfDFb47825F8a5F714f12623a/logo.png"
     },
     {
-      "address": "0x1ba42e5193dfa8b03d15dd1b86a3113bbbef8eeb",
+      "address": "0x1Ba42e5193dfA8B03D15dd1B86a3113bbBEF8Eeb",
       "chainId": 1,
       "name": "Zcash Token",
       "symbol": "ZEC",
       "tags":["Cross-Chain"],
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/omgswap/public-assets/master/assets/smartchain/0x1ba42e5193dfa8b03d15dd1b86a3113bbbef8eeb/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/omgswap/public-assets/master/assets/smartchain/0x1Ba42e5193dfA8B03D15dd1B86a3113bbBEF8Eeb/logo.png"
     },
     {
-      "address": "0xfd7b3a77848f1c2d67e05e54d78d174a0c850335",
+      "address": "0xFd7B3A77848f1C2D67E05E54d78d174a0C850335",
       "chainId": 1,
       "name": "Ontology Token",
       "symbol": "ONT",
       "tags":["Binance-Peg","Cross-Chain"],
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/omgswap/public-assets/master/assets/smartchain/0xfd7b3a77848f1c2d67e05e54d78d174a0c850335/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/omgswap/public-assets/master/assets/smartchain/0xFd7B3A77848f1C2D67E05E54d78d174a0C850335/logo.png"
     },
     {
-      "address": "0xad6caeb32cd2c308980a548bd0bc5aa4306c6c18",
+      "address": "0xAD6cAEb32CD2c308980a548bD0Bc5AA4306c6c18",
       "chainId": 1,
       "name": "Band Protocol Token",
       "symbol": "BAND",
       "tags":["Binance-Peg","Cross-Chain"],
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/omgswap/public-assets/master/assets/smartchain/0xad6caeb32cd2c308980a548bd0bc5aa4306c6c18/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/omgswap/public-assets/master/assets/smartchain/0xAD6cAEb32CD2c308980a548bD0Bc5AA4306c6c18/logo.png"
     },
     {
-      "address": "0xf307910a4c7bbc79691fd374889b36d8531b08e3",
+      "address": "0xf307910A4c7bbc79691fD374889b36d8531B08e3",
       "chainId": 1,
       "name": "Ankr",
       "symbol": "ANKR",
       "tags":["Cross-Chain"],
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/omgswap/public-assets/master/assets/smartchain/0xf307910a4c7bbc79691fd374889b36d8531b08e3/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/omgswap/public-assets/master/assets/smartchain/0xf307910A4c7bbc79691fD374889b36d8531B08e3/logo.png"
     },
     {
-      "address": "0xaf53d56ff99f1322515e54fdde93ff8b3b7dafd5",
+      "address": "0xaF53d56ff99f1322515E54FdDE93FF8b3b7DAFd5",
       "chainId": 1,
       "name": "Prometeus",
       "symbol": "PROM",
       "tags":["Data"],
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/omgswap/public-assets/master/assets/smartchain/0xaf53d56ff99f1322515e54fdde93ff8b3b7dafd5/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/omgswap/public-assets/master/assets/smartchain/0xaF53d56ff99f1322515E54FdDE93FF8b3b7DAFd5/logo.png"
     },
     {
-      "address": "0x7f70642d88cf1c4a3a7abb072b53b929b653eda5",
+      "address": "0x7F70642d88cf1C4a3a7abb072B53B929b653edA5",
       "chainId": 1,
       "name": "YFII.finance Token",
       "symbol": "YFII",
       "tags":["Cross-Chain"],
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/omgswap/public-assets/master/assets/smartchain/0x7f70642d88cf1c4a3a7abb072b53b929b653eda5/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/omgswap/public-assets/master/assets/smartchain/0x7F70642d88cf1C4a3a7abb072B53B929b653edA5/logo.png"
     },
     {
-      "address": "0xd4cb328a82bdf5f03eb737f37fa6b370aef3e888",
+      "address": "0xd4CB328A82bDf5f03eB737f37Fa6B370aef3e888",
       "chainId": 1,
       "name": "Cream",
       "symbol": "CREAM",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/omgswap/public-assets/master/assets/smartchain/0xd4cb328a82bdf5f03eb737f37fa6b370aef3e888/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/omgswap/public-assets/master/assets/smartchain/0xd4CB328A82bDf5f03eB737f37Fa6B370aef3e888/logo.png"
     },
     {
       "address": "0xE02dF9e3e622DeBdD69fb838bB799E3F168902c5",
@@ -231,31 +231,39 @@
       "logoURI": "https://raw.githubusercontent.com/omgswap/public-assets/master/assets/smartchain/0xE02dF9e3e622DeBdD69fb838bB799E3F168902c5/logo.png"
     },
     {
-      "address": "0xae9269f27437f0fcbc232d39ec814844a51d6b8f",
+      "address": "0xAe9269f27437f0fcBC232d39Ec814844a51d6b8f",
       "chainId": 1,
       "name": "Burger Swap",
       "symbol": "BURGER",
       "tags":["Yield Farming"],
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/omgswap/public-assets/master/assets/smartchain/0xae9269f27437f0fcbc232d39ec814844a51d6b8f/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/omgswap/public-assets/master/assets/smartchain/0xAe9269f27437f0fcBC232d39Ec814844a51d6b8f/logo.png"
     },
     {
-      "address": "0xe4ae305ebe1abe663f261bc00534067c80ad677c",
+      "address": "0xE4Ae305ebE1AbE663f261Bc00534067C80ad677C",
       "chainId": 1,
       "name": "SPARTAN PROTOCOL TOKEN",
       "symbol": "SPARTA",
       "tags":["Protocol"],
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/omgswap/public-assets/master/assets/smartchain/0xe4ae305ebe1abe663f261bc00534067c80ad677c/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/omgswap/public-assets/master/assets/smartchain/0xE4Ae305ebE1AbE663f261Bc00534067C80ad677C/logo.png"
     },
     {
-      "address": "0x007ea5c0ea75a8df45d288a4debdd5bb633f9e56",
+      "address": "0x007EA5C0Ea75a8DF45D288a4debdD5bb633F9e56",
       "chainId": 1,
       "name": "CanYaCoin",
       "tags":["Cross-Chain"],
       "symbol": "CAN",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/omgswap/public-assets/master/assets/smartchain/0x007ea5c0ea75a8df45d288a4debdd5bb633f9e56/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/omgswap/public-assets/master/assets/smartchain/0x007EA5C0Ea75a8DF45D288a4debdD5bb633F9e56/logo.png"
+    },
+    {
+      "address": "0x90DF11a8ccE420675e73922419e3f4f3Fe13CCCb",
+      "chainId": 1,
+      "name": "Streamity",
+      "symbol": "STM",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/omgswap/public-assets/master/assets/smartchain/0x90DF11a8ccE420675e73922419e3f4f3Fe13CCCb/logo.png"
     }
   ]
 }
