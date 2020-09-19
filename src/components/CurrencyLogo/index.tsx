@@ -8,7 +8,7 @@ import { WrappedTokenInfo } from '../../state/lists/hooks'
 import Logo from '../Logo'
 
 const getTokenLogoURL = (address: string) =>
-  `https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/smartchain/assets/${address}/logo.png`
+  `https://raw.githubusercontent.com/omgswap/public-assets/master/assets/smartchain/${address}/logo.png`
 
 const StyledBinanceLogo = styled.img<{ size: string }>`
   width: ${({ size }) => size};
