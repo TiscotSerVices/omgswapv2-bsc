@@ -17,14 +17,13 @@ import { useTranslation } from 'react-i18next'
 const InputRow = styled.div<{ selected: boolean }>`
   ${({ theme }) => theme.flexRowNoWrap}
   align-items: center;
-  padding: ${({ selected }) => (selected ? '0.75rem 0.5rem 0.75rem 1rem' : '0.75rem 0.75rem 0.75rem 1rem')};
 `
 
 const CurrencySelect = styled.button<{ selected: boolean }>`
   align-items: center;
   height: 2.2rem;
   font-size: 20px;
-  font-weight: 500;
+  font-weight: 600;
   background-color: ${({ selected, theme }) => (selected ? theme.bg1 : theme.primary1)};
   color: ${({ selected, theme }) => (selected ? theme.text1 : theme.white)};
   border-radius: 12px;
@@ -80,7 +79,6 @@ const InputPanel = styled.div<{ hideInput?: boolean }>`
 
 const Container = styled.div<{ hideInput: boolean }>`
   border-radius: ${({ hideInput }) => (hideInput ? '8px' : '20px')};
-  border: 1px solid ${({ theme }) => theme.bg3};
   background-color: ${({ theme }) => theme.bg1};
 `
 
@@ -164,15 +162,15 @@ export default function CurrencyInputPanel({
         {!hideInput && (
           <LabelRow>
             <RowBetween>
-              <TYPE.body color={theme.text2} fontWeight={500} fontSize={14}>
+              <TYPE.body color={theme.text2} fontWeight={600} fontSize={18}>
                 {label}
               </TYPE.body>
               {account && (
                 <TYPE.body
                   onClick={onMax}
                   color={theme.text2}
-                  fontWeight={500}
-                  fontSize={14}
+                  fontWeight={600}
+                  fontSize={18}
                   style={{ display: 'inline', cursor: 'pointer' }}
                 >
                   {!hideBalance && !!currency && selectedCurrencyBalance

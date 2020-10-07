@@ -35,7 +35,7 @@ const UpperSection = styled.div`
     margin: 0;
     margin-bottom: 0.5rem;
     font-size: 1rem;
-    font-weight: 400;
+    font-weight: 500;
   }
 
   h5:last-child {
@@ -80,7 +80,7 @@ const AccountSection = styled.div`
 const YourAccount = styled.div`
   h5 {
     margin: 0 0 1rem 0;
-    font-weight: 400;
+    font-weight: 500;
   }
 
   h4 {
@@ -100,7 +100,7 @@ const LowerSection = styled.div`
 
   h5 {
     margin: 0;
-    font-weight: 400;
+    font-weight: 500;
     color: ${({ theme }) => theme.text3};
   }
 `
@@ -111,7 +111,7 @@ const AccountControl = styled.div`
   min-width: 0;
   width: 100%;
 
-  font-weight: 500;
+  font-weight: 600;
   font-size: 1.25rem;
 
   a:hover {
@@ -157,7 +157,7 @@ const CloseColor = styled(Close)`
 const WalletName = styled.div`
   width: initial;
   font-size: 0.825rem;
-  font-weight: 500;
+  font-weight: 600;
   color: ${({ theme }) => theme.text3};
 `
 
@@ -182,7 +182,7 @@ const TransactionListWrapper = styled.div`
 
 const WalletAction = styled(ButtonSecondary)`
   width: fit-content;
-  font-weight: 400;
+  font-weight: 500;
   margin-left: 8px;
   font-size: 0.825rem;
   padding: 4px 6px;

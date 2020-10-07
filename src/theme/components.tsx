@@ -12,7 +12,8 @@ export const Button = styled.button.attrs<{ warning: boolean }, { backgroundColo
   border-radius: 3rem;
   cursor: pointer;
   user-select: none;
-  font-size: 1rem;
+  font-size: 1.25rem;
+  font-weight: 600;
   border: none;
   outline: none;
   background-color: ${({ backgroundColor }) => backgroundColor};

@@ -52,7 +52,7 @@ function ConfirmationPendingContent({ onDismiss, pendingText }: { onDismiss: () 
             Waiting For Confirmation
           </Text>
           <AutoColumn gap="12px" justify={'center'}>
-            <Text fontWeight={600} fontSize={14} color="" textAlign="center">
+            <Text fontWeight={600} fontSize={18} color="" textAlign="center">
               {pendingText}
             </Text>
           </AutoColumn>
@@ -93,13 +93,13 @@ function TransactionSubmittedContent({
 
           {chainId && hash && (
             <ExternalLink href={getBscScanLink(chainId, hash, 'transaction')}>
-              <Text fontWeight={500} fontSize={14} color={theme.primary1}>
+              <Text fontWeight={600} fontSize={18} color={theme.primary1}>
                 View on BscScan
               </Text>
             </ExternalLink>
           )}
           <ButtonPrimary onClick={onDismiss} style={{ margin: '20px 0 0 0' }}>
-            <Text fontWeight={500} fontSize={20}>
+            <Text fontWeight={600} fontSize={20}>
               Close
             </Text>
           </ButtonPrimary>
@@ -124,7 +124,7 @@ export function ConfirmationModalContent({
     <Wrapper>
       <Section>
         <RowBetween>
-          <Text fontWeight={500} fontSize={20}>
+          <Text fontWeight={600} fontSize={20}>
             {title}
           </Text>
           <CloseIcon onClick={onDismiss} />
@@ -142,14 +142,14 @@ export function TransactionErrorContent({ message, onDismiss }: { message: strin
     <Wrapper>
       <Section>
         <RowBetween>
-          <Text fontWeight={500} fontSize={20}>
+          <Text fontWeight={600} fontSize={20}>
             Error
           </Text>
           <CloseIcon onClick={onDismiss} />
         </RowBetween>
         <AutoColumn style={{ marginTop: 20, padding: '2rem 0' }} gap="24px" justify="center">
           <AlertTriangle color={theme.red1} style={{ strokeWidth: 1.5 }} size={64} />
-          <Text fontWeight={500} fontSize={16} color={theme.red1} style={{ textAlign: 'center', width: '85%' }}>
+          <Text fontWeight={600} fontSize={16} color={theme.red1} style={{ textAlign: 'center', width: '85%' }}>
             {message}
           </Text>
         </AutoColumn>

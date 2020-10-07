@@ -7,12 +7,13 @@ import Logo from '../Logo'
 const StyledListLogo = styled(Logo)<{ size: string }>`
   width: ${({ size }) => size};
   height: ${({ size }) => size};
+  border-radius: 12px;
 `
 
 export default function ListLogo({
   logoURI,
   style,
-  size = '24px',
+  size = '32px',
   alt
 }: {
   logoURI: string

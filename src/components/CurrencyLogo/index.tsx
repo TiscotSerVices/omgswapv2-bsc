@@ -14,17 +14,19 @@ const StyledBinanceLogo = styled.img<{ size: string }>`
   width: ${({ size }) => size};
   height: ${({ size }) => size};
   box-shadow: 0px 6px 10px rgba(0, 0, 0, 0.075);
-  border-radius: 24px;
+  border-radius: 12px;
 `
 
 const StyledLogo = styled(Logo)<{ size: string }>`
   width: ${({ size }) => size};
   height: ${({ size }) => size};
+  box-shadow: 0px 6px 10px rgba(0, 0, 0, 0.075);
+  border-radius: 12px;
 `
 
 export default function CurrencyLogo({
   currency,
-  size = '24px',
+  size = '32px',
   style
 }: {
   currency?: Currency

@@ -155,7 +155,7 @@ const ListRow = memo(function ListRow({ listUrl, onBack }: { listUrl: string; on
       {list.logoURI ? (
         <ListLogo style={{ marginRight: '1rem' }} logoURI={list.logoURI} alt={`${list.name} list logo`} />
       ) : (
-        <div style={{ width: '24px', height: '24px', marginRight: '1rem' }} />
+        <div style={{ width: '32px', height: '32px', marginRight: '1rem' }} />
       )}
       <Column style={{ flex: '1' }}>
         <Row>

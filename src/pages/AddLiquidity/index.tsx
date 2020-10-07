@@ -372,7 +372,7 @@ export default function AddLiquidity({
               <>
                 <GreyCard padding="0px" borderRadius={'20px'}>
                   <RowBetween padding="1rem">
-                    <TYPE.subHeader fontWeight={500} fontSize={14}>
+                    <TYPE.subHeader fontWeight={600} fontSize={18}>
                       {noLiquidity ? 'Initial prices' : 'Prices'} and pool share
                     </TYPE.subHeader>
                   </RowBetween>{' '}

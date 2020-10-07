@@ -195,7 +195,7 @@ button {
 }
 
 html {
-  font-size: 16px;
+  font-size: 18px;
   font-variant: none;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -219,4 +219,19 @@ body {
       theme.bg1
     )} 100%)`};
 }
+
+/* Scrollbar Styling */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background-color: ${({ theme }) => theme.bg1};
+  border-radius: 12px;
+}
+::-webkit-scrollbar-thumb {
+  border-radius: 2px;
+  background: ${({ theme }) => theme.primary1};
+}
+
 `
