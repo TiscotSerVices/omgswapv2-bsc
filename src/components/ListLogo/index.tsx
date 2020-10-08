@@ -13,7 +13,7 @@ const StyledListLogo = styled(Logo)<{ size: string }>`
 export default function ListLogo({
   logoURI,
   style,
-  size = '32px',
+  size = '24px',
   alt
 }: {
   logoURI: string

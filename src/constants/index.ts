@@ -13,7 +13,7 @@ type ChainTokenList = {
 export const DAI = new Token(ChainId.MAINNET, '0x1af3f329e8be154074d8769d1ffa4ee058b1dbc3', 18, 'DAI', 'Dai Stablecoin')
 export const BUSD = new Token(ChainId.MAINNET, '0xe9e7cea3dedca5984780bafc599bd69add087d56', 6, 'BUSD', 'Binance USD')
 export const USDT = new Token(ChainId.MAINNET, '0x55d398326f99059ff775485246999027b3197955', 6, 'USDT', 'Tether USD')
-
+export const OPM = new Token(ChainId.MAINNET, '0x8903Cefabdf9aD5f0EB2bf29bF0Ad2cd5D74Ce20', 6, 'OPM', 'Omega Protocol Money')
 
 const WBNB_ONLY: ChainTokenList = {
   [ChainId.MAINNET]: [WBNB[ChainId.MAINNET]],
@@ -26,7 +26,7 @@ const WBNB_ONLY: ChainTokenList = {
 // used to construct intermediary pairs for trading
 export const BASES_TO_CHECK_TRADES_AGAINST: ChainTokenList = {
   ...WBNB_ONLY,
-  [ChainId.MAINNET]: [...WBNB_ONLY[ChainId.MAINNET], DAI, BUSD, USDT]
+  [ChainId.MAINNET]: [...WBNB_ONLY[ChainId.MAINNET], OPM, DAI, BUSD, USDT]
 }
 
 /**
@@ -42,13 +42,13 @@ export const CUSTOM_BASES: { [chainId in ChainId]?: { [tokenAddress: string]: To
 // used for display in the default list when adding liquidity
 export const SUGGESTED_BASES: ChainTokenList = {
   ...WBNB_ONLY,
-  [ChainId.MAINNET]: [...WBNB_ONLY[ChainId.MAINNET], DAI, BUSD, USDT]
+  [ChainId.MAINNET]: [...WBNB_ONLY[ChainId.MAINNET], OPM, DAI, BUSD, USDT]
 }
 
 // used to construct the list of all pairs we consider by default in the frontend
 export const BASES_TO_TRACK_LIQUIDITY_FOR: ChainTokenList = {
   ...WBNB_ONLY,
-  [ChainId.MAINNET]: [...WBNB_ONLY[ChainId.MAINNET], DAI, BUSD, USDT]
+  [ChainId.MAINNET]: [...WBNB_ONLY[ChainId.MAINNET], OPM, DAI, BUSD, USDT]
 }
 
 export const PINNED_PAIRS: { readonly [chainId in ChainId]?: [Token, Token][] } = {
@@ -58,7 +58,8 @@ export const PINNED_PAIRS: { readonly [chainId in ChainId]?: [Token, Token][] } 
       new Token(ChainId.MAINNET, '0xe9e7cea3dedca5984780bafc599bd69add087d56', 18, 'BUSD', 'Binance USD Coin')
     ],
     [BUSD, USDT],
-    [DAI, USDT]
+    [DAI, USDT],
+    [DAI, OPM]
   ]
 }
 

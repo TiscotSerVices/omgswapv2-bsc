@@ -15,6 +15,11 @@ const StyledBinanceLogo = styled.img<{ size: string }>`
   height: ${({ size }) => size};
   box-shadow: 0px 6px 10px rgba(0, 0, 0, 0.075);
   border-radius: 12px;
+  @media (max-width: 400px) {
+    width: 16px;
+    height: 16px;
+    border-radius: 8px;
+  }
 `
 
 const StyledLogo = styled(Logo)<{ size: string }>`
@@ -22,11 +27,16 @@ const StyledLogo = styled(Logo)<{ size: string }>`
   height: ${({ size }) => size};
   box-shadow: 0px 6px 10px rgba(0, 0, 0, 0.075);
   border-radius: 12px;
+    @media (max-width: 400px) {
+      width: 16px;
+      height: 16px;
+      border-radius: 8px;
+    }
 `
 
 export default function CurrencyLogo({
   currency,
-  size = '32px',
+  size = '24px',
   style
 }: {
   currency?: Currency
